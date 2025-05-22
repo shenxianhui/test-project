@@ -1,0 +1,1 @@
+System.register(["./index-legacy.5a65177d.js","./index-legacy.4b7461c0.js"],(function(e){"use strict";var n,t,c,s,r;return{setters:[function(){},function(e){n=e._,t=e.o,c=e.a,s=e.b,r=e.n}],execute:function(){var i={class:"gc-body"},a={class:"gc-body-container"};e("G",n({},[["render",function(e,n){return t(),c("div",i,[s("div",a,[r(e.$slots,"default")])])}]]))}}}));
