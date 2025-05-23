@@ -1,0 +1,1 @@
+import"./index.a1edc4a5.js";import{_ as o,o as s,a as c,b as t,n as a}from"./index.8b8e006a.js";const r={},n={class:"gc-body"},d={class:"gc-body-container"};function _(e,i){return s(),c("div",n,[t("div",d,[a(e.$slots,"default")])])}var m=o(r,[["render",_]]);export{m as G};
